@@ -1,13 +1,15 @@
-div.last{
+a{
     background-color: #000;
     position: absolute;
     left: 740px;
-    top: 663px;
+    top: 643px;
     width: 216px;
-    height: 68px;
+    height: 48px;
     color: #fff;
     text-transform:uppercase;
     text-indent: 1.5em;
+    padding-top: 25px;
+    text-decoration: none;
         
 }
 img{
